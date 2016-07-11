@@ -19,7 +19,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Libraries and Tools](#libraries-and-tools)
 - [Videos](#videos)
 - [Case Studies](#case-studies)
-- [Sample Progressive Web Apps](@sample-progressive-web-apps)
+- [Sample Progressive Web Apps](#sample-progressive-web-apps)
 - [Specific Technologies](#specific-technologies)
 
 ## Must Reads
