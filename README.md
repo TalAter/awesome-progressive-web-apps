@@ -19,6 +19,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Libraries and Tools](#libraries-and-tools)
 - [Videos](#videos)
 - [Case Studies](#case-studies)
+- [Sample Progressive Web Apps](@sample-progressive-web-apps)
 - [Specific Technologies](#specific-technologies)
 
 ## Must Reads
@@ -52,6 +53,12 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Jumia Case Study](https://developers.google.com/web/showcase/2016/jumia) - Push Notifications help Jumia reverse cart abandonment and increase conversions by 9X.
 - [Konga Case Study](https://developers.google.com/web/showcase/2016/konga) - Konga cuts data usage 92% with new Progressive Web App.
 - [Suumo Case Study](https://developers.google.com/web/showcase/2016/suumo) - Japan's top real estate site supercharges new listings with web Push Notifications and sees a 31% open rate for notifications.
+
+## Sample Progressive Web Apps
+
+- [SVGOMG](https://jakearchibald.github.io/svgomg/)
+- [Guitar Tuner](https://aerotwist.com/blog/guitar-tuner/)
+- [Voice Memos](https://voice-memos.appspot.com/)
 
 ## Specific Technologies
 
