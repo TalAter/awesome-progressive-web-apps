@@ -42,13 +42,14 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [Instant Loading: Building offline-first Progressive Web Apps - Google I/O 2016](https://youtu.be/cmGr0RszHc8) - A quick dive into the most common technologies and techniques for building progressive web apps.
 - [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - This free Udacity course is a must if you're planning to dive deep into service workers.
-- [Progressive Web Apps (Chrome Dev Summit 2015)](https://www.youtube.com/watch?v=MyQ8mtR9WxI) - An introduction to progressive web apps by Alex Russell and Andreas Bovens.
 - [Polymer and Progressive Web Apps: Building on the modern web - Google I/O 2016](https://www.youtube.com/watch?v=fFF2Yup2dMM) - Using Polymer to build progressive web apps.
+- [Progressive Web Apps (Chrome Dev Summit 2015)](https://www.youtube.com/watch?v=MyQ8mtR9WxI) - An introduction to progressive web apps by Alex Russell and Andreas Bovens.
+
 
 ## Case Studies
 
-- [Building the Google I/O 2016 Progressive Web App](https://developers.google.com/web/showcase/2016/iowa2016) - Building and launching a progressive web app using web components, Polymer, and material design.
 - [AliExpress Case Study](https://developers.google.com/web/showcase/2016/aliexpress) - AliExpress increases conversion rate for new users by 104% with new progressive web apps.
+- [Building the Google I/O 2016 Progressive Web App](https://developers.google.com/web/showcase/2016/iowa2016) - Building and launching a progressive web app using web components, Polymer, and material design.
 - [eXtra Electronics Case Study](https://developers.google.com/web/showcase/2016/extra) - United eXtra Electronics grows eCommerce sales by 100% with Web Push Notifications.
 - [Jumia Case Study](https://developers.google.com/web/showcase/2016/jumia) - Push Notifications help Jumia reverse cart abandonment and increase conversions by 9X.
 - [Konga Case Study](https://developers.google.com/web/showcase/2016/konga) - Konga cuts data usage 92% with new Progressive Web App.
@@ -56,13 +57,13 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Sample Progressive Web Apps
 
-- [SVGOMG](https://jakearchibald.github.io/svgomg/)
 - [Guitar Tuner](https://aerotwist.com/blog/guitar-tuner/)
+- [SVGOMG](https://jakearchibald.github.io/svgomg/)
 - [Voice Memos](https://voice-memos.appspot.com/)
 
 ## Specific Technologies
 
-- [Service Workers](https://github.com/TalAter/awesome-service-workers)
+- [App Install Banners](https://github.com/TalAter/awesome-service-workers#installable-web-apps)
 - [Background Sync](https://github.com/TalAter/awesome-service-workers#background-sync)
 - [Push Notifications](https://github.com/TalAter/awesome-service-workers#push-notifications)
-- [App Install Banners](https://github.com/TalAter/awesome-service-workers#installable-web-apps)
+- [Service Workers](https://github.com/TalAter/awesome-service-workers)
