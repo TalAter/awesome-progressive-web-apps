@@ -10,7 +10,7 @@ Ensure your pull request adheres to the following guidelines:
 - Make sure your contribution is useful before submitting.
 - Make an individual pull request for each suggestion.
 - Use the following format: `[title](link) - Description.`
-- Additions should be added in alphabetical order of the relevant category.
+- Additions should be added to the end of the relevant category.
 - New categories, or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive.
 - Don't mention `progressive web apps` in the description as it's implied.
