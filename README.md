@@ -35,12 +35,12 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [Awesome Service Workers](https://github.com/TalAter/awesome-service-workers) - A collection of awesome resources for learning service workers.
 - [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - This free Udacity course is a must if you're planning on building a progressive web app.
-- [Service Workers - W3C Specification](https://www.w3.org/TR/service-workers/) - The official service workers spec.
+- [Service Workers W3C Specification](https://www.w3.org/TR/service-workers/) - The official service workers spec.
 
 ## Browser Support
 
-- [Can I Use - Service Workers](http://caniuse.com/#feat=serviceworkers) - Up-to-date browser support table of ServiceWorker API.
-- [Jake Archibald - Is Service Worker ready?](https://jakearchibald.github.io/isserviceworkerready/) - Current status of ServiceWorker support in different browsers.
+- [Can I Use: Service Workers](http://caniuse.com/#feat=serviceworkers) - Up-to-date browser support table of ServiceWorker API.
+- [Is Service Worker ready?](https://jakearchibald.github.io/isserviceworkerready/) - Current status of ServiceWorker support in different browsers.
 
 ## Videos
 
