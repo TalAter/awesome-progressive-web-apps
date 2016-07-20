@@ -39,7 +39,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Browser Support
 
-- [Can I Use: Service Workers](http://caniuse.com/#feat=serviceworkers) - Up-to-date browser support table of ServiceWorker API.
+- [Can I Use - Service Workers](http://caniuse.com/#feat=serviceworkers) - Up-to-date browser support table of ServiceWorker API.
 - [Is Service Worker ready?](https://jakearchibald.github.io/isserviceworkerready/) - Current status of ServiceWorker support in different browsers.
 
 ## Videos
@@ -85,7 +85,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Push Notifications
 
-- [Can I Use: Push API](http://caniuse.com/#feat=push-api) - Up-to-date browser support table of Push API.
+- [Can I Use - Push API](http://caniuse.com/#feat=push-api) - Up-to-date browser support table of Push API.
 - [Chrome Platform Status - Web Notifications](https://www.chromestatus.com/feature/5480344312610816) - Implementation status for Chrome and other browsers.
 - [PWA Dev Summit 2016 codelab - Push Notifications](https://developers.google.com/web/fundamentals/getting-started/push-notifications/?hl=en) Up-to-date getting started tutorial for Progressive Web App, Push Notifications and service worker basics.
 - [Using the Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API/Using_the_Push_API) - An article introducing Push API.
