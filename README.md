@@ -76,6 +76,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### CacheStorage API
 
 - [Offline Storage for Progressive Web Apps](https://medium.com/@addyosmani/offline-storage-for-progressive-web-apps-70d52695513c) - The current state of offline storage in the browser
+- [CacheStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Cache) - API docs and sample code from Mozilla.
 
 ### Background Sync
 
