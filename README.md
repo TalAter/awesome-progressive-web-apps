@@ -22,6 +22,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Sample Progressive Web Apps](#sample-progressive-web-apps)
 - [Specific Technologies](#specific-technologies)
   - [Service Workers](#service-workers)
+  - [CacheStorage API](#cachestorage-api)
   - [Background Sync](#background-sync)
   - [Installable Web Apps](#installable-web-apps)
   - [Push Notifications](#push-notifications)
@@ -71,6 +72,10 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### Service Workers
 
 - [Awesome Service Workers](https://github.com/TalAter/awesome-service-workers/) - A curated collection of the finest service worker resources.
+
+### CacheStorage API
+
+- [Offline Storage for Progressive Web Apps](https://medium.com/@addyosmani/offline-storage-for-progressive-web-apps-70d52695513c) - The current state of offline storage in the browser
 
 ### Background Sync
 
