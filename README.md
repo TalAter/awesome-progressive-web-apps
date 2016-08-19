@@ -26,6 +26,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [Background Sync](#background-sync)
   - [Installable Web Apps](#installable-web-apps)
   - [Push Notifications](#push-notifications)
+  - [IndexedDB](#indexeddb)
 
 ## Must Reads
 
@@ -76,7 +77,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### CacheStorage API
 
 - [Offline Storage for Progressive Web Apps](https://medium.com/@addyosmani/offline-storage-for-progressive-web-apps-70d52695513c) - The current state of offline storage in the browser
-- [CacheStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Cache) - API docs and sample code from Mozilla.
+- [CacheStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Cache) - API docs, and sample code from Mozilla.
 
 ### Background Sync
 
@@ -95,3 +96,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Chrome Platform Status - Web Notifications](https://www.chromestatus.com/feature/5480344312610816) - Implementation status for Chrome and other browsers.
 - [PWA Dev Summit 2016 codelab - Push Notifications](https://developers.google.com/web/fundamentals/getting-started/push-notifications/?hl=en) Up-to-date getting started tutorial for Progressive Web App, Push Notifications and service worker basics.
 - [Using the Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API/Using_the_Push_API) - An article introducing Push API.
+
+### IndexedDB
+
+- [IndexedDB API](https://developer.mozilla.org/en/docs/Web/API/IndexedDB_API) - API docs, key concepts, and sample code from Mozilla.
