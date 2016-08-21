@@ -81,9 +81,9 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Background Sync
 
+- [Introducing Background Sync](https://developers.google.com/web/updates/2015/12/background-sync) - A gentle introduction to background sync, along with some great videos and code samples.
 - [Background Sync Explained](https://github.com/WICG/BackgroundSync/blob/master/explainer.md) - The official "explainer" document for background sync, including one-off synchronization and periodic synchronization.
 - [Background Sync Spec](https://wicg.github.io/BackgroundSync/spec/) - The WIP spec for Background Sync.
-- [Introducing Background Sync](https://developers.google.com/web/updates/2015/12/background-sync?hl=en) - A more reader friendly introduction to background sync, with some great video and code samples.
 
 ### Installable Web Apps
 
