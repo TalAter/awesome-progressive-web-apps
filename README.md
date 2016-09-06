@@ -2,10 +2,10 @@
 
 A curated collection of Progressive Web Apps resources.
 
-<a href="http://pwabook.com/oreillyapwa"><img align="right" src="images/mpwa.png" alt="Building Progressive Web Apps"></a>
+<a href="https://pwabook.com/oreillyapwa"><img align="right" src="images/mpwa.png" alt="Building Progressive Web Apps"></a>
 > Progressive web apps are a new breed of web apps. They combine the benefits of a native app with the low friction nature of the web. Progressive web apps start off as simple websites, but as the user interacts with them, they progressively gain new powers. They transform from a website into something much more like a traditional native app.
 >
-> -- <cite>[Building Progressive Web Apps - O'Reilly](http://pwabook.com/oreillyapwa)</cite>
+> -- <cite>[Building Progressive Web Apps - O'Reilly](https://pwabook.com/oreillyapwa)</cite>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
