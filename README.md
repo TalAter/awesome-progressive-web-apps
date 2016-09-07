@@ -37,6 +37,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## Learning Resources
 
 - [Awesome Service Workers](https://github.com/TalAter/awesome-service-workers) - A collection of awesome resources for learning service workers.
+- [Building Progressive Web Apps - O'Reilly Media](https://pwabook.com/oreillyapwa) - A deep dive into progressive web apps, service workers, push notifications, background sync, IndexedDB, offline first and much more (disclaimer: written by the maintainer of this page).
 - [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - This free Udacity course is a must if you're planning on building a progressive web app.
 - [Service Workers W3C Specification](https://www.w3.org/TR/service-workers/) - The official service workers spec.
 
