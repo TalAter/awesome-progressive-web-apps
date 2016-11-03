@@ -7,8 +7,6 @@ A curated collection of Progressive Web Apps resources.
 >
 > -- <cite>[Building Progressive Web Apps - O'Reilly](https://pwabook.com/oreillyapwa)</cite>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
 If you want to contribute, please read the [contribution guidelines](contributing.md).
 
 ## Contents
