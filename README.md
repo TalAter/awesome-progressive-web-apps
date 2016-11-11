@@ -96,6 +96,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Chrome Platform Status - Web Notifications](https://www.chromestatus.com/feature/5480344312610816) - Implementation status for Chrome and other browsers.
 - [PWA Dev Summit 2016 codelab - Push Notifications](https://developers.google.com/web/fundamentals/getting-started/push-notifications/?hl=en) Up-to-date getting started tutorial for Progressive Web App, Push Notifications and service worker basics.
 - [Using the Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API/Using_the_Push_API) - An article introducing Push API.
+- [web-push-libs](https://github.com/web-push-libs) - A collection of useful libraries for web push in different technologies (Node.js, PHP, Python, etc.)
 
 ### IndexedDB
 
