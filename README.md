@@ -13,9 +13,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [Must Reads](#must-reads)
 - [Learning Resources](#learning-resources)
-- [Reference](#reference)
 - [Browser Support](#browser-support)
-- [Libraries and Tools](#libraries-and-tools)
 - [Videos](#videos)
 - [Case Studies](#case-studies)
 - [Sample Progressive Web Apps](#sample-progressive-web-apps)
