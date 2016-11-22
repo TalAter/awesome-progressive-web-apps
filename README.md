@@ -21,9 +21,10 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [Service Workers](#service-workers)
   - [CacheStorage API](#cachestorage-api)
   - [Background Sync](#background-sync)
-  - [Installable Web Apps](#installable-web-apps)
   - [Push Notifications](#push-notifications)
   - [IndexedDB](#indexeddb)
+  - [Installable Web Apps](#installable-web-apps)
+    - [App Icons](#app-icons)
 
 ## Must Reads
 
