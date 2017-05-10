@@ -25,6 +25,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [IndexedDB](#indexeddb)
   - [Installable Web Apps](#installable-web-apps)
     - [App Icons](#app-icons)
+  - [Web Share APIs](#web-share-apis)
 - [Awesome Performance](#awesome-performance)
 
 ## Must Reads
@@ -105,6 +106,12 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [RealFaviconGenerator](http://realfavicongenerator.net/) - A great way to generate all the images, favicons, and associated files needed to display your app icon across different browsers.
 - [Android Asset Studio - Launcher Icon Generator](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html) - Generate Android style icons.
+
+### Web Share APIs
+
+- [Introducing the Web Share API](https://developers.google.com/web/updates/2016/10/navigator-share) - High level introduction to the Web Share API.
+- [Web Share API explainer doc](https://github.com/WICG/web-share/blob/master/docs/explainer.md) - An explanation of the API, along with some examples. Part of the proposal doc.
+- [Web Share Target API](https://github.com/WICG/web-share-target) - The proposal for the Web Share Target API, as well as a high level [explainer](https://github.com/WICG/web-share-target/blob/master/docs/explainer.md).
 
 ## Awesome Performance
 
