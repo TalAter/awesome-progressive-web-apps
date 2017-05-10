@@ -25,17 +25,17 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [IndexedDB](#indexeddb)
   - [Installable Web Apps](#installable-web-apps)
     - [App Icons](#app-icons)
+- [Awesome Performance](#awesome-performance)
 
 ## Must Reads
 
-- [Google Developers - Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/your-first-progressive-web-app/?hl=en) - A step-by-step guide to building a progressive web apps using the app shell pattern.
-- [Wired - Wait! The Web Isn’t Dead After All. Google Made Sure of It](http://www.wired.com/2016/04/wait-web-isnt-really-dead-google-made-sure/) - The behind the scenes story of progressive web apps for non-developers.
+- [Building Progressive Web Apps - O'Reilly Media](https://pwabook.com/oreillyapwa) - A deep dive into progressive web apps, service workers, push notifications, background sync, IndexedDB, offline first and much more.
+- [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - This free Udacity course is a must if you're planning on building a progressive web app.
 
 ## Learning Resources
 
+- [Google Developers - Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/your-first-progressive-web-app/?hl=en) - A step-by-step guide to building a progressive web apps using the app shell pattern.
 - [Awesome Service Workers](https://github.com/TalAter/awesome-service-workers) - A collection of awesome resources for learning service workers.
-- [Building Progressive Web Apps - O'Reilly Media](https://pwabook.com/oreillyapwa) - A deep dive into progressive web apps, service workers, push notifications, background sync, IndexedDB, offline first and much more (disclaimer: written by the maintainer of this page).
-- [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - This free Udacity course is a must if you're planning on building a progressive web app.
 - [Service Workers W3C Specification](https://www.w3.org/TR/service-workers/) - The official service workers spec.
 
 ## Browser Support
@@ -105,3 +105,13 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [RealFaviconGenerator](http://realfavicongenerator.net/) - A great way to generate all the images, favicons, and associated files needed to display your app icon across different browsers.
 - [Android Asset Studio - Launcher Icon Generator](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html) - Generate Android style icons.
+
+## Awesome Performance
+
+- [Web Fundamentals - Performance](https://developers.google.com/web/fundamentals/performance/) - Google's performance learning portal, containing a wealth of knowledge on optimizing your web apps for perfomance.
+- [Introducing RAIL: A User-Centric Model For Performance](https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/) - The seminal introduction to RAIL by the Gang of Pauls.
+- [Website Performance Optimization](https://udacity.com/ud884) - A free Udacity course on optimizing websites for speed.
+- [Browser Rendering Optimization](https://udacity.com/ud860) - A free Udacity course helping you create web apps that maintain jank-free 60fps performance.
+- [The PRPL Pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern/) - A new pattern for structuring and serving Progressive Web Apps, with an emphasis on performance.
+- [Browser Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/) - Understand how HTML, JavaScript and CSS is handled by the browser, and how to optimize your page accordingly.
+
