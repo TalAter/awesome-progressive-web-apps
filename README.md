@@ -31,8 +31,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## Must Reads
 
 - [Building Progressive Web Apps - O'Reilly Media](https://pwabook.com/oreillyapwa) - A deep dive into progressive web apps, service workers, push notifications, background sync, IndexedDB, offline first and much more.
-- [Intro To Progressive Web Apps](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811) - This free Udacity course by Google covers intro to PWAs, service workers and web app manifests.
-- [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - This free Udacity course is a must if you're planning on building a progressive web app.
+- [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - A free Udacity course introducing you to the basic concepts of building a progressive web app.
 
 ## Learning Resources
 
