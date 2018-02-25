@@ -15,6 +15,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Learning Resources](#learning-resources)
 - [Browser Support](#browser-support)
 - [Videos](#videos)
+- [Tutorials](#tutorials)
 - [Case Studies](#case-studies)
 - [Sample Progressive Web Apps](#sample-progressive-web-apps)
 - [Specific Technologies](#specific-technologies)
@@ -51,6 +52,10 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - This free Udacity course is a must if you're planning to dive deep into service workers.
 - [Progressive Web Apps (Chrome Dev Summit 2015)](https://www.youtube.com/watch?v=MyQ8mtR9WxI) - An introduction to progressive web apps by Alex Russell and Andreas Bovens.
 - [Polymer and Progressive Web Apps: Building on the modern web - Google I/O 2016](https://www.youtube.com/watch?v=fFF2Yup2dMM) - Using Polymer to build progressive web apps.
+
+## Tutorials
+
+- [How I made a Progressive Web App out of my Blog](https://alexjoverm.github.io/2017/08/07/How-I-made-a-Progressive-Web-App-out-of-my-Blog/) - A walkthrough guide of the experience of turning a blog into a progressive web app.
 
 ## Case Studies
 
