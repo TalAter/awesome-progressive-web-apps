@@ -38,6 +38,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Google Developers - Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/your-first-progressive-web-app/?hl=en) - A step-by-step guide to building a progressive web apps using the app shell pattern.
 - [Awesome Service Workers](https://github.com/TalAter/awesome-service-workers) - A collection of awesome resources for learning service workers.
 - [Service Workers W3C Specification](https://www.w3.org/TR/service-workers/) - The official service workers spec.
+- [A complete guide (paid) for PWA's](https://www.udemy.com/progressive-web-app-pwa-the-complete-guide/)
 
 ## Browser Support
 
