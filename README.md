@@ -69,6 +69,14 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Voice Memos](https://voice-memos.appspot.com/)
 - [Hacker News](https://react-hn.appspot.com/)
 
+## Starter kits
+
+These let you get a skeleton PWA up and running in a matter of minutes, with many best practices baked in.
+
+- [Preact CLI](https://github.com/developit/preact-cli)
+- [Polymer App Toolbox](https://www.polymer-project.org/3.0/toolbox/)
+- [Stencil PWA](https://stenciljs.com/pwa/)
+
 ## Specific Technologies
 
 ### Service Workers
