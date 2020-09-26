@@ -27,6 +27,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
     - [App Icons](#app-icons)
   - [Web Share APIs](#web-share-apis)
 - [Awesome Performance](#awesome-performance)
+- [Tools](#tools)
+  - [Generators](#generators)
 
 ## Must Reads
 
@@ -123,3 +125,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [The PRPL Pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern/) - A new pattern for structuring and serving Progressive Web Apps, with an emphasis on performance.
 - [Browser Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/) - Understand how HTML, JavaScript and CSS is handled by the browser, and how to optimize your page accordingly.
 
+## Tools
+
+### Generators
+
+- [Web App Manifest Generator](https://app-manifest.firebaseapp.com/) - generates the manifest.json file and optionally forming an app icon with various sizes.
