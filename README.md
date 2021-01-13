@@ -107,6 +107,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [RealFaviconGenerator](http://realfavicongenerator.net/) - A great way to generate all the images, favicons, and associated files needed to display your app icon across different browsers.
 - [Android Asset Studio - Launcher Icon Generator](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html) - Generate Android style icons.
+- [pwa-badge](https://github.com/ali-master/pwa-badge) - Badging for PWA app icons, Like Native Apps.
 
 ### Web Share APIs
 
