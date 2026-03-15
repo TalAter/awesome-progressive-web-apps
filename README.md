@@ -68,6 +68,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Guitar Tuner](https://aerotwist.com/blog/guitar-tuner/)
 - [Voice Memos](https://voice-memos.appspot.com/)
 - [Hacker News](https://react-hn.appspot.com/)
+- [PDFGem](https://pdfgem.io/) - Free browser-based PDF tools (merge, split, compress, OCR) powered by WebAssembly. Works offline, no server uploads.
+- [Vizua](https://vizua.io/) - Free browser-based image tools (compress, convert, resize, watermark) powered by WebAssembly. Works offline, privacy-first.
 
 ## Specific Technologies
 
