@@ -8,6 +8,7 @@ A curated collection of Progressive Web Apps resources.
 > -- <cite>[Building Progressive Web Apps - O'Reilly](https://pwabook.com/oreillyapwa)</cite>
 
 If you want to contribute, please read the [contribution guidelines](contributing.md).
+- [TaleForge](https://www.tale-forge.com/) - Creative writing platform PWA with offline support, installable on all platforms.
 
 ## Contents
 
