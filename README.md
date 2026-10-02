@@ -65,6 +65,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [PWA.rocks](https://pwa.rocks/) - A showcase of several progressive web apps, collected by the [Opera Dev Relations team](https://twitter.com/ODevRel).
 - [SVGOMG](https://jakearchibald.github.io/svgomg/)
+- [BusinessOS](https://businessos.biz) - Offline-first business platform with invoicing, expenses, CRM, and financial calculators. Uses IndexedDB, Service Worker, and Web App Manifest.
 - [Guitar Tuner](https://aerotwist.com/blog/guitar-tuner/)
 - [Voice Memos](https://voice-memos.appspot.com/)
 - [Hacker News](https://react-hn.appspot.com/)
