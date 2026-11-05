@@ -63,7 +63,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Sample Progressive Web Apps
 
-- [PWA.rocks](https://pwa.rocks/) - A showcase of several progressive web apps, collected by the [Opera Dev Relations team](https://twitter.com/ODevRel).
+- [pwa.directory](https://pwa.directory) - A curated directory of installable progressive web apps.
 - [SVGOMG](https://jakearchibald.github.io/svgomg/)
 - [Guitar Tuner](https://aerotwist.com/blog/guitar-tuner/)
 - [Voice Memos](https://voice-memos.appspot.com/)
